@@ -1,0 +1,30 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import "custom";
+
+// Custom logo styles
+.site-header-logo {
+  display: inline-block;
+  margin-right: 20px;
+  vertical-align: middle;
+}
+
+.site-logo img {
+  max-height: 60px;
+  width: auto;
+  display: block;
+}
+
+// Adjust header layout to accommodate logo
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-title {
+  flex-grow: 1;
+}
