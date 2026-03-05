@@ -17,3 +17,8 @@ plugins:
 # Pagination
 paginate: 10
 paginate_path: "/blog/page:num/"
+
+# Header pages - specify which pages appear in the menu
+header_pages:
+  - about.md
+  - events.md
