@@ -8,6 +8,10 @@ permalink: /events/
 
 Check back soon for information about MUNGO's upcoming outreach events in Newfoundland and Labrador!
 
+### Featured Events
+
+- [WISE Visit](/events/wise-visit/) - Women in Science and Engineering outreach event
+
 ### Past Events
 
 We host various geophysics and geoscience events throughout the year, including:
