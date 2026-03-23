@@ -1,2 +1,25 @@
+# Welcome to Jekyll!
+title: Mungo NL
+description: >-
+  A personal website
+baseurl: ""
+url: "https://mungo-nl.github.io"
+logo: "/images/logo.png"
+twitter_username: mungo_nl
+github_username: mungo-NL
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Header pages - specify which pages appear in the menu
 header_pages:
+  - about.md
   - critical-minerals.md
+  - events.md
