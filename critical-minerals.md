@@ -9,7 +9,7 @@ Newfoundland and Labrador, or "The Rock," is known for its beautiful landscapes,
 
 ## What are Critical Minerals?
 
-A critical mineral is a mineral that's essential to modern technology. Canada's government has a list of over 30 minerals considered "critical", and many of them are in Newfoundland and Labrador. For example, antimony, cobalt, and nickel are crucial for making the batteries that store energy from wind turbines and solar panels. These minerals are so important that countries around the world are trying to secure their own supplies. The demand for them is increasing as new technologies, like touch screens, require critical minerals.
+A [critical mineral](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-critical-minerals-key-global-energy-transition.html) is a mineral that's essential to modern technology. Canada's government has a list of over 30 minerals considered "critical", and many of them are in Newfoundland and Labrador. For example, antimony, cobalt, and nickel are crucial for making the batteries that store energy from wind turbines and solar panels. These minerals are so important that countries around the world are trying to secure their own supplies. The demand for them is increasing as new technologies, like touch screens, require critical minerals.
 
 ## Why are they so important for Newfoundland and Labrador?
 
