@@ -20,11 +20,11 @@ author:
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Critical Minerals: "https://beautifuljekyll.com"
+    - Groundwater: "https://www.markdowntutorial.com/"
+  Newfoundland Minecraft Map: "Minecraftnl"
 
 ################
 # --- Logo --- #
