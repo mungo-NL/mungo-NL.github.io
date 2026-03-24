@@ -1,9 +1,6 @@
+<!-- _includes/image.html -->
 <figure>
-  <img
-    src="{{ include.src }}"
-     alt="{{ include.alt }}"
-     class="img-responsive"
-     style="{{ include.style }}"
-    >
-  <figcaption>{{ include.caption }}</figcaption>
+    <img src="{{ include.url }}" alt="{{ include.description }}" width="{{ include.width }}" height="{{ include.height }}">
+    <figcaption>{{ include.description }}</figcaption>
 </figure>
+
