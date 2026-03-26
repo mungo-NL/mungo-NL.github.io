@@ -23,6 +23,12 @@ Memorial University of Newfoundland and Labrador Faculty
   object-fit: cover;
   border-radius: 6px;
 }
+  .singleimg-col img {
+  width: 30%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 6px;
+}
 .about-caption {
   margin-top: 0.5rem;
   font-style: italic;
@@ -81,7 +87,7 @@ NL Schools Members
 
 <!-- REST SECTION -->
 <div class="about-grid">
-  <div class="about-col">
+  <div class="singleimg-col">
     <img src="/assets/img/kavanaugh.jpg">
     <div class="about-caption">
       Heidi Kavanagh is the Department Head of Science at Mount Pearl Intermediate, NL where she teaches French Immersion science to students Grades 7-9. She is an alumna of the Faculty of Science at Memorial University, completing her Bachelor of Science (Honours) in 2012 and Masters of Environmental Science in 2014 under the supervision of Dr. Penny Morrill, Department of Earth Sciences. Heidi is the co-chair for the Newfoundland and Labrador Science Fair Council and loves everything science!
