@@ -35,13 +35,13 @@ title: About Us
   </div>
 
   <div class="about-col">
-    <img src="/assets/img/welford.jpeg" alt="DrKimWelford">
+    <img src="/assets/img/Welford.jpeg" alt="DrKimWelford">
     <div class="Dr. J. Kim Welford is a geophysics professor at Memorial Unviersity of Newfoundland and Labrador. Her primary expertise lies in seismology and gravity methods, which she applies to lithospheric and basin-scale studes both onshore and offshore of the margins of the North Atlantic Ocean. She holds a BSc in Planetary Sciences from McGill Unviersity in Montreal, and both an MSc and PhD in Geophysics/Seismology from the University of British Columbia in Vancouver.">Your caption for column 2.</div>
   </div>
 
   <div class="about-col">
-    <img src="/assets/images/pic3.jpg" alt="Image 3">
-    <div class="about-caption">
+    <img src="/assets/img/Farquharson.jpg" alt="ProfColinFarquharson">
+    <div class="Dr. Colin Farquharson has been a geophysics faculty member at Memorial University of Newfoundland for almost twenty years. Colin's main teaching and research interests are geophysical electromagnetic methods, and the computational mathematics for modelling and interpreting the data acquired by these methods.">
 
 ![image](assets/img/IMG_9171.jpeg)
 Alexis Johnson is a MSc student in geophysics at MUN. Her research focuses on CO2 storage offshore Newfoundland, and plans to continue working on climate solutions in her future career. She has experience working for energy companies, mining companies, as a teaching assistant, and in lab environments.
