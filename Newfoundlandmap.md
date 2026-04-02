@@ -5,6 +5,10 @@ title: Explore Newfoundland in Minecraft
 
 #Download the [Newfoundland World Here](sha256:8137751e9776bcf9608052d06cb182774238c381e0bfcaab880335739ca5c91a)
 
+<a href="https://github.com/mungo-NL/repository/releases/download/v1.0/project-files.zip" download>
+  Download v1.0 (ZIP)
+</a>
+
 Instructions: 
 1. Download the Newfoundland Minecraft world as a zip file archive.
 2. Unzip the archive to a temporary location.
