@@ -3,7 +3,7 @@ layout: page
 title: Explore Newfoundland in Minecraft
 ---
 
-#Download the [Newfoundland World Here]()
+#Download the [Newfoundland World Here](sha256:8137751e9776bcf9608052d06cb182774238c381e0bfcaab880335739ca5c91a)
 
 Instructions: 
 1. Download the Newfoundland Minecraft world as a zip file archive.
