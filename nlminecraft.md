@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newfoundland Minecraft Map
+title: NL Minecraft Map
 ---
 [Explore the geology of Newfoundland in Minecraft using the world available here!](Newfoundlandmap.md) 
 
