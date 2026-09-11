@@ -144,13 +144,25 @@ document.getElementById('page-search').addEventListener('input', function() {
   <div class="link-card">
     <img class="link-thumb" src="/assets/img/teach_earth_logo.png">
     <div>
-      <div class="link-title"><a href="https://serc.carleton.edu/NAGTWorkshops/geophysics/activities.html" target="_blank">Classroom, Lab, and Field Exercises in Geophysics</a></div>
+      <div class="link-title"><a href="https://serc.carleton.edu/NAGTWorkshops/geophysics/activities.html" target="_blank">Hands-on Seismology: Constructing a School Seismometer</a></div>
+      <div class="link-desc">
+        <p>A guide from Science in School for building a simple seismometer using affordable materials. Covers P- and S-wave detection, electromagnetic induction, and seismic data analysis using free software. Includes an instruction booklet. Suited for grades 9-12. **May need a laptop on all night.</p>
+      </div>
+      <div class="link-grade">Grades 10-12</div>
+    </div>   
+  </div>
+
+ <hr class="section-divider">
+  <div class="link-card">
+    <img class="link-thumb" src="/assets/img/science_school_logo.png">
+    <div>
+      <div class="link-title"><a href="https://scienceinschool.org/article/2022/constructing-school-seismometer/" target="_blank">Classroom, Lab, and Field Exercises in Geophysics</a></div>
       <div class="link-desc">
         <p>This collection of teaching materials allows for the sharing of ideas and activities within the community of geophysics teachers. You can search by subject (computer modeling, exploration methods, etc.) and resource type (problem set, classroom activity, etc.)</p>
       </div>
       <div class="link-grade">Grades 10-12</div>
     </div>   
-  </div>
+  </div> 
     
 <div class="grade-group">
   <h3 id="all-grades">All Grades</h3>
@@ -193,6 +205,17 @@ document.getElementById('page-search').addEventListener('input', function() {
         <div class="link-grade">Grades K-12</div>
       </div>
     </div>   
-  
+
+  <hr class="section-divider">
+    <div class="link-card">
+      <img class="link-thumb" src="/assets/img/ras_logo.png">
+      <div>
+        <div class="link-title"><a href="https://ras.ac.uk/education-and-careers/for-everyone/145-geophysics-links" target="_blank">Geophysics Links (RAS)</a></div>
+        <div class="link-desc">
+          <p>A curated list from the Royal Astronomical Society (RAS) of groups and societies around the world that work with geophysics, with teaching materials.</p>
+        </div>
+        <div class="link-grade">Grades K-12</div>
+      </div>
+    </div>   
 </div>
 
