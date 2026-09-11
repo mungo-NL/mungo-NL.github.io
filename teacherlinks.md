@@ -120,8 +120,7 @@ document.getElementById('page-search').addEventListener('input', function() {
     <div>
       <div class="link-title"><a href="https://www.sciencecourseware.org/VirtualEarthquake/" target="_blank">Virtual Earthquake</a></div>
       <div class="link-desc">
-        <p>Virtual Earthquake is an interactive Web-based activity designed to introduce you to the concepts of how an earthquake EPICENTER is located and how the RICHTER MAGNITUDE of an earthquake is determined.</p>
-        <p>Students locate earthquake epicentres using real seismic data. Demonstrates seismology, a key tool used to study Earth’s interior. (<strong>Bonus</strong>: you get a certificate at the end).</p>
+        <p>Educational activities and resources, high-quality Earth science teaching materials with real datasets.</p>
       </div>
       <div class="link-grade">Grades 7-9</div>
     </div>
@@ -130,16 +129,19 @@ document.getElementById('page-search').addEventListener('input', function() {
 
 <div class="grade-group">
   <h3 id="high-school">High School</h3>
-
+  
   <hr class="section-divider">
-  <div class="link-card">
-    <img class="link-thumb" src="/assets/img/careers_science_logo.png">
-    <div>
-      <div class="link-title"><a href="https://careers.earthsciencescanada.com/what-can-you-be/ " target="_blank">What Can You Be?</a></div>
-      <div class="link-desc">
-        <p>A short quiz that introduces careers in Earth science and geophysics.</p>
-        <p>You can be any number of things as an Earth Scientist. From the Earth’s core to the cosmos there is a career for you to discover! Earth Scientists have a wide range of job titles, working in one or many of the <strong>W.H.E.R.E.</strong> career sectors that make up the Earth Sciences:</p>
-
+    <div class="link-card">
+      <img class="link-thumb" src="/assets/img/educational_materials_logo.png">
+      <div>
+        <div class="link-title"><a href="https://serc.carleton.edu/ANGLE/educational_materials/materials.html" target="_blank">Educational Materials Collection</a></div>
+        <div class="link-desc">
+          <p>Educational activities and resources, high-quality Earth science teaching materials with real datasets.</p>
+        </div>
+        <div class="link-grade">Grades 10-12</div>
+      </div>
+    </div>
+    
 <div class="grade-group">
   <h3 id="all-grades">All Grades</h3>
 
