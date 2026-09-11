@@ -168,19 +168,31 @@ document.getElementById('page-search').addEventListener('input', function() {
     </div>
   </div>
 
-<hr class="section-divider">
-  <div class="link-card">
-    <img class="link-thumb" src="/assets/img/exploring_seat_logo.png">
-    <div>
-      <div class="link-title"><a href="https://exploringbytheseat.com/" target="_blank">Exploring by the Seat of Your Pants</a></div>
-      <div class="link-desc">
-        <p>Virtual field trips that connect students with real scientists. Good for real-world science applications and students can see how Earth scientists work in the field.</p>
-        <p>Exploring by the Seat of Your Pants opens the frontlines of our changing planet to all students through the passion, immersive technology and visual storytelling of the scientists, explorers, conservationists, and adventurers who are smashing the boundaries of what we thought was possible.</p>
-        <p>Their events are free for classrooms everywhere. Students are introduced to important and challenging issues, exciting places, strong role models, and new STEM career paths.</p>
+  <hr class="section-divider">
+    <div class="link-card">
+      <img class="link-thumb" src="/assets/img/exploring_seat_logo.png">
+      <div>
+        <div class="link-title"><a href="https://exploringbytheseat.com/" target="_blank">Exploring by the Seat of Your Pants</a></div>
+        <div class="link-desc">
+          <p>Virtual field trips that connect students with real scientists. Good for real-world science applications and students can see how Earth scientists work in the field.</p>
+          <p>Exploring by the Seat of Your Pants opens the frontlines of our changing planet to all students through the passion, immersive technology and visual storytelling of the scientists, explorers, conservationists, and adventurers who are smashing the boundaries of what we thought was possible.</p>
+          <p>Their events are free for classrooms everywhere. Students are introduced to important and challenging issues, exciting places, strong role models, and new STEM career paths.</p>
+        </div>
+        <div class="link-grade">Grades K-12</div>
       </div>
-      <div class="link-grade">All Grades</div>
     </div>
-  </div>
+
+ <hr class="section-divider">
+    <div class="link-card">
+      <img class="link-thumb" src="/assets/img/agu_logo.png">
+      <div>
+        <div class="link-title"><a href="https://connect.agu.org/gpe/teaching-resources" target="_blank">Teaching Resources (AGU)</a></div>
+        <div class="link-desc">
+          <p>Lesson plans and activities from the American Geophysical Society (AGU) that connect physics to real geophysics applications. Separated by grade/level.</p>
+        </div>
+        <div class="link-grade">Grades K-12</div>
+      </div>
+    </div>   
   
 </div>
 
