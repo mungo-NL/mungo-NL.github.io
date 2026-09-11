@@ -129,7 +129,6 @@ document.getElementById('page-search').addEventListener('input', function() {
 
 <div class="grade-group">
   <h3 id="high-school">High School</h3>
-  
   <hr class="section-divider">
     <div class="link-card">
       <img class="link-thumb" src="/assets/img/educational_materials_logo.png">
@@ -140,7 +139,18 @@ document.getElementById('page-search').addEventListener('input', function() {
         </div>
         <div class="link-grade">Grades 10-12</div>
       </div>
-    </div>
+      
+ <hr class="section-divider">
+  <div class="link-card">
+    <img class="link-thumb" src="/assets/img/teach_earth_logo.png">
+    <div>
+      <div class="link-title"><a href="https://serc.carleton.edu/NAGTWorkshops/geophysics/activities.html" target="_blank">Classroom, Lab, and Field Exercises in Geophysics</a></div>
+      <div class="link-desc">
+        <p>This collection of teaching materials allows for the sharing of ideas and activities within the community of geophysics teachers. You can search by subject (computer modeling, exploration methods, etc.) and resource type (problem set, classroom activity, etc.)</p>
+      </div>
+      <div class="link-grade">Grades 10-12</div>
+    </div>   
+  </div>
     
 <div class="grade-group">
   <h3 id="all-grades">All Grades</h3>
