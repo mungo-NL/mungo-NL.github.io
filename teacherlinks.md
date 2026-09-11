@@ -140,3 +140,20 @@ document.getElementById('page-search').addEventListener('input', function() {
         <p>A short quiz that introduces careers in Earth science and geophysics.</p>
         <p>You can be any number of things as an Earth Scientist. From the Earth’s core to the cosmos there is a career for you to discover! Earth Scientists have a wide range of job titles, working in one or many of the <strong>W.H.E.R.E.</strong> career sectors that make up the Earth Sciences:</p>
 
+<div class="grade-group">
+  <h3 id="all-grades">All Grades</h3>
+
+  <hr class="section-divider">
+  <div class="link-card">
+    <img class="link-thumb" src="/assets/img/earthlinks_logo.png">
+    <div>
+      <div class="link-title"><a href="https://www.cgenarchive.org/earthlinks.html" target="_blank">EarthLinks</a></div>
+      <div class="link-desc">
+        <p>Earth Links is a collection of online resources selected by the members of CGEN, which is a national network of Canadian educators and professionals interested in promoting awareness of the Earth Sciences.</p>
+        <p>All of the EarthLinks were submitted and/or suggested by CGEN members. The selection process focused on Canadian content so many links are available in both English and French.</p>
+      </div>
+      <div class="link-grade">All Grades</div>
+    </div>
+  </div>
+</div>
+
