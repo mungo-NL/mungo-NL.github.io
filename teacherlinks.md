@@ -164,7 +164,7 @@ document.getElementById('page-search').addEventListener('input', function() {
         <p>Earth Links is a collection of online resources selected by the members of CGEN, which is a national network of Canadian educators and professionals interested in promoting awareness of the Earth Sciences.</p>
         <p>All of the EarthLinks were submitted and/or suggested by CGEN members. The selection process focused on Canadian content so many links are available in both English and French.</p>
       </div>
-      <div class="link-grade">All Grades</div>
+      <div class="link-grade">Grades K-12</div>
     </div>
   </div>
 
