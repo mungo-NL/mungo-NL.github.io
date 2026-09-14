@@ -312,6 +312,48 @@ Curious what a career in geoscience actually looks like? Meet some local profess
 
 <div class="career-card">
   <div class="career-card-top">
+    <img class="career-photo" src="/assets/img/kendra_power.jpg">
+    <div>
+      <div class="career-name">Kendra Tarrant</div>
+      <div class="career-field"><strong>Position:</strong> Geologist, Equinor</div>
+      <div class="career-field"><strong>Education:</strong> B.Sc/M.Sc Geology</div>
+      <div class="career-field"><strong>Location:</strong> St. John's, NL</div>
+    </div>
+  </div>
+
+  <details>
+    <summary class="career-toggle">Read Kendra's full story</summary>
+    <div class="career-answer">
+      <strong>What inspired you to become a geologist/geophysicist?</strong>
+      <p>I've always loved the outdoors and had a keen interest in science as a kid, but wasn't sure what exactly I could do with that. While studying grade 11 abroad (during an exchange program to Spain) I was taken on an earth sciences field trip and absolutely fell in love with the discipline. I knew right then and there that that was what I was going to study in university.</p>
+
+      <strong>What did you do in post-secondary education?</strong>
+      <p>I had originally not planned on completing an honours thesis (despite having the grades to do so), so I completed my BSc in 2015 without it. I was fortunate enough to be exposed to different career paths and industries within the geoscience discipline through numerous summer work-terms during my studies. I worked for the geological survey for two summers as a field assistant, travelling around the island collecting samples for gold analysis.</p>
+      <p>I also held a position as a summer student with Suncor energy, working on the Hibernia oilfield. Additionally, I worked at the Fortune Head Geological Interpretation Centre as a program coordinator/tour guide to a world renowned fossil site on the Burin Peninsula. During the last semester of my undergrad, I decided I wanted to further my education and complete a Masters degree. I made the decision after completing my BSc to return for one additional year of undergrad and completed an honours to ensure that the thesis route was indeed correct for me. I was extremely interested in fossils and sedimentology and so, I completed a masters in Early Cambrian Palaeontology and Sedimentology with Dr. Duncan McIlroy at MUN. I had been taught sedimentology, hydrocarbons, and a field course by Duncan and was very interested in working with him. He was always very forthcoming about the practical applications of our studies in the real world in industry. I won't lie, his previous students had a reputation for getting really good jobs after graduating which was also of great interest to me!</p>
+
+      <strong>What does your average day look like as a geoscientist?</strong>
+      <p>Previously I was working rotations as an exploration geologist for a gold project, spending my time in the woods spotting holes, collecting grab samples, logging core etc. Nowadays, I spend my days in an office in downtown St. John's, working on the Bay du Nord project. I work in well planning and get to spend my days working with individuals with all sorts of different backgrounds (educational and cultural). I work closely with geomodelers, geophysicists, reservoir engineers, production engineers, as well as drilling engineers. Every day is fascinating - I am constantly learning. Planning and drilling wells offshore, particularly in a harsh, deep water environment like the Flemish Pass, doesn't come without major challenges. We get to spend every day troubleshooting these challenges and coming up with innovative solutions to plan the best wells possible (extremely safe, environmentally friendly, and profitable wells to provide energy for people). It is very rewarding working for a company that is committed to the energy transition - there are roles for geoscientists in low carbon solutions/carbon capture as well as wind projects etc. The opportunities are endless in the energy industry!</p>
+
+      <strong>What are some important skills required in your field that can't be taught?</strong>
+      <p>Geologists cannot drill the wells without engineers, and engineers cannot drill the wells without the geologists understanding the subsurface. Communication and teamwork is of utmost importance in my job. Sometimes it feels as though geoscientists and engineers speak a different language. It is critical for us to be able to communicate our needs and concerns to one another in order to accomplish common goals, mitigate risks in well planning etc. I also cannot stress enough the importance of adaptability - comfort with change, ambiguity, and learning on the fly is especially important in fast‑moving or evolving role.</p>
+
+      <strong>What is the coolest project or experience you've ever had?</strong>
+      <p>This is an extremely difficult question to answer as I have had many extremely cool experiences throughout my education and career as a geologist. Perhaps a list of key highlights would be: flying around in a helicopter for field work, traveling to Chile and Bolivia for a field course and visiting one of the world's largest open pit copper mines (Chuquicamata), working on a rig in the North Sea during development drilling (and climbing the derrick all the way to the top of the rig!), and visiting a rig in the Flemish Pass during exploration drilling (extremely exciting times watching the data come in in real time). I could go on and on!</p>
+
+      <strong>Do you have any advice for junior high students?</strong>
+      <p>As you grow up, you’ll start learning more about the world and about yourself. One of the most important things to remember is this: if something interests you, explore it. Whether it’s science, art, sports, helping others, fixing things, or something you’ve never tried before—give yourself permission to be curious. Interests can turn into hobbies, skills, or even careers one day, but only if you give them a chance.</p>
+      <p>It’s also important to know that life is not a race. Not everyone figures things out at the same time, and that’s okay. Some people know what they want to do early on, and others change direction many times. Everyone has their own path, their own timeline, and their own goals—whether that’s school, work, travel, marriage, having kids, or choosing none of those at all. There is no single “right” way to live a life.</p>
+      <p>When you’re older, you’ll spend a lot of your time working. That’s why it’s so important to try to do something you enjoy or that feels meaningful to you. Work can be challenging, but when you care about what you do, it feels more rewarding and motivating. Loving your work doesn’t mean it’s always easy—it means it’s worth the effort.</p>
+      <p>Remember, it’s okay to change your mind. Choosing one path doesn’t mean you’re stuck forever. Many adults change careers or industries, sometimes more than once. Each experience teaches you something new and helps you grow. Changing direction doesn’t mean you failed—it means you learned.</p>
+      <p>Most importantly, be kind to yourself. You don’t need to have everything figured out right now. Keep learning, keep trying new things, and trust that your path will make sense as you go. Your life is your own—take the time to build one that feels right for you.</p>
+    </div>
+  </details>
+</div>
+
+<hr class="section-divider">
+
+<div class="career-card">
+  <div class="career-card-top">
     <img class="career-photo" src="/assets/img/miguel_shano.jpg">
     <div>
       <div class="career-name">Miguel Shano</div>
